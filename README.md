@@ -1,0 +1,1 @@
+MyOnlineMeal is a simple and responsive food delivery website built using HTML and CSS. The project is designed to provide a clean and user-friendly interface where users can explore different food items and get a feel of an online meal ordering platform. It focuses on structured layout and attractive design, making it a good practice project for frontend development.
